@@ -8,7 +8,7 @@ void foo()
 
 void bar()
 {
-    
+    cout<<"bararar!!!"<<endl;
 }
  
 int main()
