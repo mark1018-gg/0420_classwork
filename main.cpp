@@ -14,5 +14,6 @@ void bar()
 int main()
 {
     cout << "Hello, World!" << endl;
+    foo();
     return 0;
 }
