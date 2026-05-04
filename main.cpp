@@ -3,7 +3,7 @@ using namespace std;
 
 void foo()
 {
-
+    cout<<"foooooo!!!"<<endl;
 }
 
 void bar()
@@ -14,6 +14,10 @@ void bar()
 int main()
 {
     cout << "Hello, World!" << endl;
+
     bar();
+
+    foo();
+
     return 0;
 }
